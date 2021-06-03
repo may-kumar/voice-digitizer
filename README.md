@@ -38,4 +38,4 @@ WorkADC - Directory contating project file and source code for a working ADC imp
 
 <h3>Demo </h3>
 <p align="center">
-<img src="../readme_assets/finalDemo.gif" width="80%" alt="Final Demo"></p>
+<img src="./readme_assets/finalDemo.gif" width="80%" alt="Final Demo"></p>
